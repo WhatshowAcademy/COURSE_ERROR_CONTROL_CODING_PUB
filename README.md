@@ -1,2 +1,2 @@
-# COURSE_ERROR_CONTROL_CODING_PUB
-Course - Error Control Coding (public)
+# Course - Error Control Coding (public)
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
